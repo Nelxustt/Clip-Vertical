@@ -9,7 +9,7 @@
   Herramienta local y de uso personal, inspirada en Streamlabs Crossclip.
 </p>
 
-![Captura de Clip Vertical](docs/captura.png)
+<!-- Agrega aquí una captura de pantalla: ![Captura de Clip Vertical](docs/captura.png) -->
 
 ## Qué hace
 
@@ -37,8 +37,8 @@ Todo se procesa en tu equipo. Lo único que sale a internet es la descarga del e
 ## Instalación
 
 ```bash
-git clone https://github.com/<Nelxustt>/clip-vertical.git
-cd clip-vertical
+git clone https://github.com/Nelxustt/Clip-Vertical.git
+cd Clip-Vertical
 
 python -m venv .venv
 # Windows:      .venv\Scripts\activate
@@ -102,3 +102,9 @@ Es un proyecto personal y no está afiliado a Streamlabs ni a ninguna otra plata
 - Cola para convertir varios enlaces seguidos
 - Títulos y hashtags generados a partir de la transcripción
 - Opciones de estilo para los subtítulos
+
+## Licencia
+
+[PolyForm Noncommercial 1.0.0](LICENSE). Puedes usar, modificar y compartir el código para fines **no comerciales** (uso personal, estudio, hobby, investigación u organizaciones sin fines de lucro). El uso comercial, incluida la venta o su inclusión en un producto o servicio de pago, requiere permiso del autor.
+
+Es un proyecto de código disponible, no de código abierto en el sentido de la OSI.
