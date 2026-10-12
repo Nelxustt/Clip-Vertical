@@ -9,7 +9,7 @@
   Herramienta local y de uso personal, inspirada en Streamlabs Crossclip.
 </p>
 
-<!-- Agrega aquí una captura de pantalla: ![Captura de Clip Vertical](docs/captura.png) -->
+   ![Captura de Clip Vertical](docs/captura.png)
 
 ## Qué hace
 
